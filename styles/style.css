@@ -135,7 +135,8 @@ html {
     min-width: fit-content;
     height: fit-content;
     border-right: 10px solid #132743;
-    background-image: url('/img/clouds.JPG');
+    /* background-image: url('/img/clouds.JPG'); */
+    background-image: url('https://unsplash.com/photos/hQ3WZnY3yZ0');
     background-repeat: no-repeat;
     background-size: cover;
 }
