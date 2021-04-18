@@ -135,7 +135,7 @@ html {
     min-width: fit-content;
     height: fit-content;
     border-right: 10px solid #132743;
-    background-image: url("img/clouds.jpg");
+    background-image: url('/img/clouds.JPG');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -192,7 +192,7 @@ html {
     background-color: #c20b36;
     height: 100%;
     width: 100%;
-    background-image: url('img/cocacola.jpeg');
+    background-image: url('/img/cocacola.JPEG');
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -303,7 +303,7 @@ html {
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
-    background-image: url('img/image-bg-3.jpg');
+    background-image: url('/img/image-bg-3.JPG');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -383,14 +383,14 @@ html {
     height: 80%;
     width: 80%;
     border: 5px solid #132743;
-    background-image: url('img/image-bg-1.jpg'); background-repeat: no-repeat; background-size: cover;
+    background-image: url('/img/image-bg-1.JPG'); background-repeat: no-repeat; background-size: cover;
 }
 
 .c02  {
     height: 80%;
     width: 80%;
     border: 5px solid #132743;
-    background-image: url('img/image-bg.jpg'); 
+    background-image: url('/img/image-bg.JPG'); 
     background-repeat: no-repeat; background-size: cover;
 }
 
@@ -399,7 +399,7 @@ html {
     height: 80%;
     width: 80%;
     border: 5px solid #132743;
-    background-image: url('img/image-bg.jpg'); 
+    background-image: url('/img/image-bg.JPG'); 
     background-repeat: no-repeat; background-size: cover;
 }
 
@@ -407,7 +407,7 @@ html {
     height: 80%;
     width: 80%;
     border: 5px solid #132743;
-    background-image: url('img/image-bg-1.jpg'); 
+    background-image: url('/img/image-bg-1.JPG'); 
     background-repeat: no-repeat; background-size: cover;
 }
 
@@ -421,7 +421,7 @@ html {
     border: 5px solid #132743;
     max-height: 50%;
     width: 80%;
-    background-image: url('img/power.jpeg'); 
+    background-image: url('/img/power.JPEG'); 
     background-repeat: no-repeat; background-size: cover;
 }
 
@@ -430,7 +430,7 @@ html {
 .section-5 {
     min-width: 80vw;
     height: 100vh;
-    background-image: url('img/clouds.jpg');
+    background-image: url('/img/clouds.JPG');
     background-repeat: no-repeat; background-size: cover;
     display: flex;
     justify-content: center;
