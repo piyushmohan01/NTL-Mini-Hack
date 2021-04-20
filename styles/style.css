@@ -135,8 +135,7 @@ html {
     min-width: fit-content;
     height: fit-content;
     border-right: 10px solid #132743;
-    /* background-image: url('/img/clouds.JPG'); */
-    background-image: url('https://unsplash.com/photos/hQ3WZnY3yZ0');
+    background-image: url('/img/clouds.JPG');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -193,7 +192,7 @@ html {
     background-color: #c20b36;
     height: 100%;
     width: 100%;
-    background-image: url('/img/cocacola.JPEG');
+    background-image: url('/img/cocacola.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -422,7 +421,8 @@ html {
     border: 5px solid #132743;
     max-height: 50%;
     width: 80%;
-    background-image: url('/img/power.JPEG'); 
+    background-image: url('/img/power-1.jpeg'); 
+    background-position-y: -7.5vh;
     background-repeat: no-repeat; background-size: cover;
 }
 
