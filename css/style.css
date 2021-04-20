@@ -1,5 +1,6 @@
 html {
     scroll-behavior: smooth;
+    flex-direction: row;
     cursor:none;
 }
 
@@ -453,9 +454,10 @@ html {
 }
 
 .blurbox h1 {
+    line-height: 8vh;
     background-color: transparent;
     font-size: 5em;
-    padding: 1vh 2vw;
+    padding: 0vh 2vw;
 }
 
 /* hover-animations */
